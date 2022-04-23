@@ -26,6 +26,7 @@ After undo it will look like this
 
 Do you see any improvements or want to implement a missing feature? Contributions are very welcome!
 
-• Is your contribution relatively small? You can, make your changes, run the code checks, open a PR and make sure the CI is green. That's it!
+**•** Is your contribution relatively small? You can, make your changes, run the code checks, open a PR and make sure the CI is green. That's it!
+**•** Are the changes big and do they make a lot of impact? Please open an issue [here](https://github.com/SaadKhanJadoon/canvas-tutorial/issues) or reach out and let's discuss.
 
 Take into account that changes and requests can be rejected if they don't align with the purpose of the library. To not waste any time you can always open an issue here to talk before you start making any changes.
